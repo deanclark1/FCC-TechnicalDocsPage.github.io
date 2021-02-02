@@ -49,3 +49,10 @@ header {
     text-align: left;
     margin: 0px;
 }
+
+.js-heading{
+    padding-top: 2rem;
+}
+.container-body{
+    padding-top: 4rem;
+}
